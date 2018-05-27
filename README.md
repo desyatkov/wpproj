@@ -6,7 +6,7 @@ yarn install
 
 start dev server
 ``` bash
-yarn run dev
+yarn start
 ```
 
 start build
