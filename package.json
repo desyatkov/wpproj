@@ -1,9 +1,8 @@
 {
-  "name": "indecision-app",
+  "name": "wpproj",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Sergey",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "dev": "webpack --mode development",
